@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shubhaang Kataruka](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:6C2BD9,100:00E5FF&text=SHUBHAANG%20KATARUKA&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Systems%20Builder%20%E2%80%A2%20Professional%20Button%20Presser&descAlignY=57&animation=fadeIn)
+![Shubhaang Kataruka](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:6C2BD9,100:00E5FF&text=SHUBHAANG%20KATARUKA&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Systems%20Builder%20%E2%80%A2%20Shipping%20Ideas%20Into%20Reality&descAlignY=57&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=I+build+AI+products+that+leave+localhost.;Agentic+AI+%2B+full-stack+systems+%2B+data.;Turning+ambitious+ideas+into+deployed+software.;Currently+making+the+machines+earn+their+electricity.)](https://git.io/typing-svg)
 
@@ -45,14 +45,14 @@ $ shubhaang --status
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🧠 PromptIQ</h3>
-<p align="center">A Manifest V3 browser extension that upgrades prompts inside ChatGPT, Claude, Gemini, Perplexity, Copilot and DeepSeek.</p>
-<p align="center"><a href="https://github.com/S-h-u-b-h-1/prompt-iq"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github" alt="View PromptIQ code"></a> <a href="https://promptiq-theta.vercel.app"><img src="https://img.shields.io/badge/TRY_IT_LIVE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Try PromptIQ live"></a></p>
+<h3 align="center">📈 MFPulse</h3>
+<p align="center">Indian mutual-fund intelligence with AMFI-backed returns, rolling performance, risk metrics and explainable portfolio health.</p>
+<p align="center"><a href="https://mf-pulse.vercel.app"><img src="https://img.shields.io/badge/OPEN_MFPULSE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Open MFPulse"></a></p>
 </td>
 <td width="50%">
-<h3 align="center">⚡ ChargeSense</h3>
-<p align="center">Agentic EV-demand forecasting with scikit-learn, LangGraph, FAISS RAG and explainable infrastructure planning.</p>
-<p align="center"><a href="https://github.com/S-h-u-b-h-1/EV-charging-demand-prediction"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github" alt="View ChargeSense code"></a> <a href="https://ev-charging-demand-prediction-saamcexbagk7gmpmdfotqd.streamlit.app/"><img src="https://img.shields.io/badge/OPEN_DASHBOARD-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open ChargeSense dashboard"></a></p>
+<h3 align="center">🧾 CA Intel</h3>
+<p align="center">An AI operating system for Indian CA firms, combining compliance, tax intelligence and evidence-backed suggestions.</p>
+<p align="center"><a href="https://ca-intel.vercel.app"><img src="https://img.shields.io/badge/OPEN_CA_INTEL-6c2bd9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CA Intel"></a></p>
 </td>
 </tr>
 <tr>
