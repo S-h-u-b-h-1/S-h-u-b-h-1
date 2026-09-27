@@ -6,7 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=S-h-u-b-h-1&label=PROFILE+VIEWS&color=6c2bd9&style=for-the-badge)](https://github.com/S-h-u-b-h-1)
 [![Followers](https://img.shields.io/github/followers/S-h-u-b-h-1?label=CREW&style=for-the-badge&color=00b8d9&logo=github)](https://github.com/S-h-u-b-h-1?tab=followers)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-frontend-rose-nine.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://www.shubhaangkataruka.in)
 
 ### I don't collect frameworks. I make them do useful things.
 
@@ -59,7 +59,7 @@ $ shubhaang --status
 <td width="50%">
 <h3 align="center">🛰️ AI Portfolio</h3>
 <p align="center">My digital HQ: animated case studies, visit analytics and an AI assistant grounded in verified portfolio context.</p>
-<p align="center"><a href="https://github.com/S-h-u-b-h-1/Portfolio"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github" alt="View portfolio code"></a> <a href="https://portfolio-frontend-rose-nine.vercel.app"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6c2bd9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"></a></p>
+<p align="center"><a href="https://github.com/S-h-u-b-h-1/Portfolio"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github" alt="View portfolio code"></a> <a href="https://www.shubhaangkataruka.in"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6c2bd9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"></a></p>
 </td>
 <td width="50%">
 <h3 align="center">📊 Corporate AI Adoption</h3>
@@ -120,8 +120,8 @@ $ shubhaang --status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhaang-kataruka-279a00274/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-See_my_work-6C2BD9?style=for-the-badge&logo=vercel)](https://portfolio-frontend-rose-nine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhaang-kataruka/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-See_my_work-6C2BD9?style=for-the-badge&logo=vercel)](https://www.shubhaangkataruka.in)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Solve_mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubh_2201/)
 
 **If the idea sounds a little impossible, I’m probably interested.**
