@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/coastal-signal.svg" width="100%" alt="Shubhaang Kataruka — Garden Signal">
+<img src="./assets/garden-signal.svg" width="100%" alt="Shubhaang Kataruka — Garden Signal">
 
 <sub><code>AI ENGINEERING · DATA SYSTEMS · FINTECH INTELLIGENCE · FULL-STACK PRODUCTS</code></sub>
 
