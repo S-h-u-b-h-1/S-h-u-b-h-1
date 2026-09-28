@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/coastal-signal.svg" width="100%" alt="Shubhaang Kataruka — Coastal Signal">
+<img src="./assets/coastal-signal.svg" width="100%" alt="Shubhaang Kataruka — Garden Signal">
 
 <sub><code>AI ENGINEERING · DATA SYSTEMS · FINTECH INTELLIGENCE · FULL-STACK PRODUCTS</code></sub>
 
@@ -100,6 +100,6 @@ NEXT  / make AI more useful, reliable and human
 
 [LinkedIn](https://www.linkedin.com/in/shubhaang-kataruka/) · [Portfolio](https://www.shubhaangkataruka.in) · [LeetCode](https://leetcode.com/u/Shubh_2201/) · [Holopin](https://www.holopin.io/@shubhaang)
 
-<sub><code>SEA / STONE / SYSTEMS</code></sub>
+<sub><code>STONE / LAWN / SYSTEMS</code></sub>
 
 </div>
