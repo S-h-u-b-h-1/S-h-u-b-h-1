@@ -1,84 +1,107 @@
 <div align="center">
 
-<img src="./assets/garden-signal.svg" width="100%" alt="Shubhaang Kataruka — Garden Signal">
+<img src="./assets/build-atlas.svg" width="100%" alt="Shubhaang Kataruka build atlas">
 
-<sub><code>AI ENGINEERING · DATA SYSTEMS · FINTECH INTELLIGENCE · FULL-STACK PRODUCTS</code></sub>
+<sub><code>SHIP USEFUL SYSTEMS · KEEP THE HUMAN IN THE LOOP · LEAVE LOCALHOST</code></sub>
 
 </div>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
-## Signal / 01
+## Dispatch
 
-I’m **Shubhaang Kataruka**, a B.Tech CSE & AI student building agentic AI, data systems and product-grade software. I like systems with evidence, interfaces with intent, and ideas that survive outside a demo.
-
-**Now transmitting:** reliable AI products, financial intelligence, and human-friendly technical work.
+I’m **Shubhaang Kataruka**, a B.Tech CSE & AI student who builds agentic AI, data systems and full-stack products. I care about grounded answers, useful interfaces, and software that can hold up outside a demo.
 
 </td>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-```text
-ROLE     AI Engineer
-BASE     Kolkata, India
-MODE     building in public
-OFFLINE  dance / mountains / cars
-STATUS   signal is strong
-```
+## Principle
+
+> I don’t collect frameworks. I make them do useful things.
+
+Right now, that means reliable AI, financial intelligence, and public-interest technology.
+
+</td>
+</tr>
+</table>
+
+## Project console
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / MFPulse
+
+Indian mutual-fund intelligence with AMFI-backed returns, rolling performance, risk metrics and explainable portfolio health.
+
+[▣ Launch MFPulse](https://mf-pulse.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / CA Intel
+
+An AI operating system for Indian CA firms: compliance, tax intelligence and evidence-backed suggestions.
+
+[▣ Launch CA Intel](https://ca-intel.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / AI Portfolio
+
+Animated case studies, visit analytics and an AI assistant grounded in verified portfolio context.
+
+[▣ Enter portfolio](https://www.shubhaangkataruka.in)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Corporate AI Adoption
+
+A 200,000-row analysis of AI adoption, investment, productivity and financial impact—with an interactive dashboard.
+
+[▣ Explore the data](https://github.com/S-h-u-b-h-1/Corporate-AI-Adoption)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>Open field notes</b></summary>
+<summary><b>Open the workbench</b></summary>
 
 <br>
 
-```text
-> I don't collect frameworks. I make them do useful things.
-> Current direction: AI × finance × public-interest technology.
-> Outside runtime: dance, mountain trails, cars and good conversations.
-```
+| Build layer | Tools I reach for |
+|---|---|
+| **Product** | TypeScript · JavaScript · React · Node.js · Express · Tailwind |
+| **Data** | Python · PostgreSQL · Prisma · Pandas · scikit-learn · Streamlit |
+| **AI** | LangGraph · LangChain · retrieval workflows · evaluation-minded design |
+| **Shipping** | Vite · Vercel · GitHub · practical observability |
 
 </details>
 
-## Systems on the radar
-
-| Signal | What it does | Launch |
-|---|---|---|
-| **01 / MFPulse** | Indian mutual-fund intelligence with AMFI-backed returns, rolling performance, risk metrics and explainable portfolio health. | [Open MFPulse](https://mf-pulse.vercel.app) |
-| **02 / CA Intel** | An AI operating system for Indian CA firms: compliance, tax intelligence and evidence-backed suggestions. | [Open CA Intel](https://ca-intel.vercel.app) |
-| **03 / AI Portfolio** | Animated case studies, visit analytics and an AI assistant grounded in verified portfolio context. | [Enter portfolio](https://www.shubhaangkataruka.in) |
-| **04 / Corporate AI Adoption** | A 200,000-row analysis of AI adoption, investment, productivity and financial impact—with an interactive dashboard. | [Explore the data](https://github.com/S-h-u-b-h-1/Corporate-AI-Adoption) |
-
-## Build log
+## Build archive
 
 ```text
-2024  / learned by building in public — first web projects and open-source contributions
+2024  / learned by building in public — first web projects + open-source contributions
 2025  / moved from pages to products — full-stack apps, authentication, databases and fintech tooling
 2026  / went deep on intelligent systems — agentic AI, RAG, forecasting, analytics and deployments
 NEXT  / make AI more useful, reliable and human
 ```
 
-## Workbench
-
-<div align="center">
-
-`TypeScript` · `JavaScript` · `Python` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Tailwind`
-
-`LangGraph` · `LangChain` · `scikit-learn` · `Pandas` · `Streamlit` · `Vercel`
-
-</div>
-
 ## Badge cabinet
 
 <div align="center">
 
-[<img src="https://holopin.me/shubhaang" alt="Shubhaang's Holopin board" width="760">](https://www.holopin.io/@shubhaang)
+[<img src="https://holopin.me/shubhaang" alt="Shubhaang's Holopin board" width="820">](https://www.holopin.io/@shubhaang)
 
-<sub>Badges earned along the way — tap to visit my Holopin profile.</sub>
+<sub>Badges earned along the way. Open the cabinet for the full collection.</sub>
 
 </div>
 
@@ -94,12 +117,12 @@ NEXT  / make AI more useful, reliable and human
 
 </div>
 
-## Reach the signal
+## Contact coordinates
 
 <div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/shubhaang-kataruka/) · [Portfolio](https://www.shubhaangkataruka.in) · [LeetCode](https://leetcode.com/u/Shubh_2201/) · [Holopin](https://www.holopin.io/@shubhaang)
 
-<sub><code>STONE / LAWN / SYSTEMS</code></sub>
+<sub><code>BUILD WELL. STAY CURIOUS. KEEP MOVING.</code></sub>
 
 </div>
