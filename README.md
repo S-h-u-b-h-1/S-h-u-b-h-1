@@ -1,105 +1,90 @@
 <div align="center">
 
-![Shubhaang Kataruka](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:6C2BD9,100:00E5FF&text=SHUBHAANG%20KATARUKA&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Systems%20Builder%20%E2%80%A2%20Shipping%20Ideas%20Into%20Reality&descAlignY=57&animation=fadeIn)
+<img src="./assets/coastal-signal.svg" width="100%" alt="Shubhaang Kataruka — Coastal Signal">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=I+build+AI+products+that+leave+localhost.;Agentic+AI+%2B+full-stack+systems+%2B+data.;Turning+ambitious+ideas+into+deployed+software.;Currently+making+the+machines+earn+their+electricity.)](https://git.io/typing-svg)
-
-[![Profile views](https://komarev.com/ghpvc/?username=S-h-u-b-h-1&label=PROFILE+VIEWS&color=6c2bd9&style=for-the-badge)](https://github.com/S-h-u-b-h-1)
-[![Followers](https://img.shields.io/github/followers/S-h-u-b-h-1?label=CREW&style=for-the-badge&color=00b8d9&logo=github)](https://github.com/S-h-u-b-h-1?tab=followers)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://www.shubhaangkataruka.in)
-
-### I don't collect frameworks. I make them do useful things.
-
-`AI engineering` · `data systems` · `full-stack products` · `fintech` · `browser extensions`
+<sub><code>AI ENGINEERING · DATA SYSTEMS · FINTECH INTELLIGENCE · FULL-STACK PRODUCTS</code></sub>
 
 </div>
 
-## `whoami`
-
-```yaml
-name: Shubhaang Kataruka
-role: AI Engineer + Data Systems Builder
-education: B.Tech in Computer Science & AI · 3rd year
-location: Kolkata, India
-currently_building: reliable AI products people can actually use
-operating_system: curiosity with suspiciously high uptime
-```
-
-<details>
-<summary><b>⚡ Open my developer console</b></summary>
-<br>
-
-```text
-$ shubhaang --status
-→ designing agentic workflows
-→ shipping React + TypeScript products
-→ teaching data to tell the truth
-→ converting coffee into commits
-→ accepting: bold ideas, hard problems, great collaborations
-```
-
-</details>
-
-## Featured builds
-
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">📈 MFPulse</h3>
-<p align="center">Indian mutual-fund intelligence with AMFI-backed returns, rolling performance, risk metrics and explainable portfolio health.</p>
-<p align="center"><a href="https://mf-pulse.vercel.app"><img src="https://img.shields.io/badge/OPEN_MFPULSE-00e5ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Open MFPulse"></a></p>
+<td width="62%" valign="top">
+
+## Signal / 01
+
+I’m **Shubhaang Kataruka**, a B.Tech CSE & AI student building agentic AI, data systems and product-grade software. I like systems with evidence, interfaces with intent, and ideas that survive outside a demo.
+
+**Now transmitting:** reliable AI products, financial intelligence, and human-friendly technical work.
+
 </td>
-<td width="50%">
-<h3 align="center">🧾 CA Intel</h3>
-<p align="center">An AI operating system for Indian CA firms, combining compliance, tax intelligence and evidence-backed suggestions.</p>
-<p align="center"><a href="https://ca-intel.vercel.app"><img src="https://img.shields.io/badge/OPEN_CA_INTEL-6c2bd9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CA Intel"></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🛰️ AI Portfolio</h3>
-<p align="center">My digital HQ: animated case studies, visit analytics and an AI assistant grounded in verified portfolio context.</p>
-<p align="center"><a href="https://github.com/S-h-u-b-h-1/Portfolio"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github" alt="View portfolio code"></a> <a href="https://www.shubhaangkataruka.in"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6c2bd9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"></a></p>
-</td>
-<td width="50%">
-<h3 align="center">📊 Corporate AI Adoption</h3>
-<p align="center">A 200,000-row analysis of AI adoption, investment, productivity and financial impact—with an interactive dashboard.</p>
-<p align="center"><a href="https://github.com/S-h-u-b-h-1/Corporate-AI-Adoption"><img src="https://img.shields.io/badge/EXPLORE_THE_DATA-00b8d9?style=for-the-badge&logo=python&logoColor=white" alt="Explore the project"></a></p>
+<td width="38%" valign="top">
+
+```text
+ROLE     AI Engineer
+BASE     Kolkata, India
+MODE     building in public
+OFFLINE  dance / mountains / cars
+STATUS   signal is strong
+```
+
 </td>
 </tr>
 </table>
 
-## Tech orbit
+<details>
+<summary><b>Open field notes</b></summary>
+
+<br>
+
+```text
+> I don't collect frameworks. I make them do useful things.
+> Current direction: AI × finance × public-interest technology.
+> Outside runtime: dance, mountain trails, cars and good conversations.
+```
+
+</details>
+
+## Systems on the radar
+
+| Signal | What it does | Launch |
+|---|---|---|
+| **01 / MFPulse** | Indian mutual-fund intelligence with AMFI-backed returns, rolling performance, risk metrics and explainable portfolio health. | [Open MFPulse](https://mf-pulse.vercel.app) |
+| **02 / CA Intel** | An AI operating system for Indian CA firms: compliance, tax intelligence and evidence-backed suggestions. | [Open CA Intel](https://ca-intel.vercel.app) |
+| **03 / AI Portfolio** | Animated case studies, visit analytics and an AI assistant grounded in verified portfolio context. | [Enter portfolio](https://www.shubhaangkataruka.in) |
+| **04 / Corporate AI Adoption** | A 200,000-row analysis of AI adoption, investment, productivity and financial impact—with an interactive dashboard. | [Explore the data](https://github.com/S-h-u-b-h-1/Corporate-AI-Adoption) |
+
+## Build log
+
+```text
+2024  / learned by building in public — first web projects and open-source contributions
+2025  / moved from pages to products — full-stack apps, authentication, databases and fintech tooling
+2026  / went deep on intelligent systems — agentic AI, RAG, forecasting, analytics and deployments
+NEXT  / make AI more useful, reliable and human
+```
+
+## Workbench
 
 <div align="center">
 
-[![Core stack](https://skillicons.dev/icons?i=ts,js,python,react,nodejs,express,postgres,prisma,tailwind,vite,git,github,vercel&perline=13)](https://skillicons.dev)
+`TypeScript` · `JavaScript` · `Python` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Tailwind`
 
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1c1c1c?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-LLM_Apps-1C3C3C?style=for-the-badge&logo=langchain)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+`LangGraph` · `LangChain` · `scikit-learn` · `Pandas` · `Streamlit` · `Vercel`
 
 </div>
 
-## The plot so far
-
-| Era | Upgrade unlocked | Receipts |
-|:---:|---|---|
-| **2024** | Learned by building in public | Open-source contributions + first web projects |
-| **2025** | Moved from pages to products | Full-stack apps, auth, databases and fintech tooling |
-| **2026** | Went deep on intelligent systems | Agentic AI, RAG, forecasting, analytics and production deployments |
-| **Next** | Make AI more useful, reliable and human | Currently loading… ████████░░ |
-
-## Live telemetry
+## Badge cabinet
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-h-u-b-h-1&theme=tokyonight" alt="Shubhaang's GitHub contribution summary">
+[<img src="https://holopin.me/shubhaang" alt="Shubhaang's Holopin board" width="760">](https://www.holopin.io/@shubhaang)
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-h-u-b-h-1&theme=tokyonight" alt="Most used languages by repository">
-<img height="175" src="https://streak-stats.demolab.com?user=S-h-u-b-h-1&theme=tokyonight&hide_border=true" alt="Shubhaang's GitHub streak">
+<sub>Badges earned along the way — tap to visit my Holopin profile.</sub>
+
+</div>
+
+## Contribution current
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-h-u-b-h-1/S-h-u-b-h-1/output/github-contribution-grid-snake-dark.svg">
@@ -109,23 +94,12 @@ $ shubhaang --status
 
 </div>
 
-## Current side quests
-
-- Building **AI systems with receipts**: grounded answers, observable flows and graceful failure.
-- Exploring the overlap of **AI × finance × public-interest technology**.
-- Turning messy datasets into decisions instead of decorative dashboards.
-- Open to collaborating on products that are technically ambitious and genuinely useful.
-
-## Let's build something unreasonably good
+## Reach the signal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhaang-kataruka/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-See_my_work-6C2BD9?style=for-the-badge&logo=vercel)](https://www.shubhaangkataruka.in)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-Solve_mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubh_2201/)
+[LinkedIn](https://www.linkedin.com/in/shubhaang-kataruka/) · [Portfolio](https://www.shubhaangkataruka.in) · [LeetCode](https://leetcode.com/u/Shubh_2201/) · [Holopin](https://www.holopin.io/@shubhaang)
 
-**If the idea sounds a little impossible, I’m probably interested.**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00E5FF,55:6C2BD9,100:050816&section=footer)
+<sub><code>SEA / STONE / SYSTEMS</code></sub>
 
 </div>

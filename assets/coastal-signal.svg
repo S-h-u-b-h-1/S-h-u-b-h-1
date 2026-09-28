@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Shubhaang Kataruka — coastal signal</title>
+  <desc id="desc">A dark coastal terminal scene in sea teal, mist, and limestone tones.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0a1119"/>
+      <stop offset=".58" stop-color="#173541"/>
+      <stop offset="1" stop-color="#79b9c3"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1">
+      <stop stop-color="#0b2632"/>
+      <stop offset="1" stop-color="#2b8190"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#sky)"/>
+  <path d="M0 202C142 175 241 215 375 191c131-24 223 17 350-15 122-31 251-17 475 10v114H0Z" fill="url(#sea)"/>
+  <g fill="#a8b9b6" opacity=".73">
+    <path d="M55 190 123 58l34 48 33-79 42 163Z"/>
+    <path d="m189 190 74-116 25 45 51-76 39 147Z"/>
+    <path d="m756 202 52-122 28 40 37-82 59 164Z"/>
+    <path d="m871 202 74-103 23 35 34-64 62 132Z"/>
+    <path d="m1004 202 62-136 31 57 46-75 57 154Z"/>
+  </g>
+  <g stroke="#9ee8e7" stroke-width="1.5" opacity=".45">
+    <path d="M35 235c130-21 255 21 386-2s247 18 390-1 240 20 355-3" fill="none">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M35 235c130-21 255 21 386-2s247 18 390-1 240 20 355-3;M35 230c130 20 255-17 386 5s247-20 390 3 240-19 355 1;M35 235c130-21 255 21 386-2s247 18 390-1 240 20 355-3"/>
+    </path>
+    <path d="M15 258c169-18 284 19 462-1s267 18 421-2 210 12 288-2" fill="none"/>
+  </g>
+  <g transform="translate(476 54)">
+    <rect width="570" height="147" rx="12" fill="#071017" fill-opacity=".88" stroke="#92e7e5" stroke-opacity=".45"/>
+    <circle cx="27" cy="27" r="6" fill="#6de3d8" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="45" y="32" fill="#a6c7c8" font-family="monospace" font-size="14" letter-spacing="2">COASTAL SIGNAL / KOLKATA</text>
+    <text x="28" y="78" fill="#f1fbfa" font-family="monospace" font-size="34" font-weight="700" letter-spacing="2">SHUBHAANG KATARUKA</text>
+    <text x="30" y="108" fill="#82d8d8" font-family="monospace" font-size="16" letter-spacing="1">AI ENGINEER  //  DATA SYSTEMS BUILDER</text>
+    <text x="30" y="130" fill="#aabfbd" font-family="monospace" font-size="13">building useful systems beyond localhost</text>
+  </g>
+  <g font-family="monospace" font-size="12" fill="#b8d8d5" opacity=".85">
+    <text x="38" y="278">01° SIGNAL ACQUIRED</text>
+    <text x="965" y="278">SEA / STONE / SYSTEMS</text>
+  </g>
+</svg>
